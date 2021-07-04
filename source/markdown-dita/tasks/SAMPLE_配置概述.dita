@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?><!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd"[]>
+<task xml:lang="en-us" id="A7185E2D-53D3501-2154A7F1525A741-5A2455">
+  <title>配置概述</title>
+  <shortdesc>遵循以下步骤，配置流程：</shortdesc>
+  <taskbody>
+    <context>
+    </context>
+    <steps>
+      <step>
+        <cmd>
+          <xref href="SAMPLE_绘制审批流程图.dita">绘制审批流程图</xref>
+        </cmd>
+      </step>
+      <step>
+        <cmd>
+          <xref href="SAMPLE_绘制审批流程图.dita#A7B38E2D-3D50F25-A712557150B0AD6-3C435B/_bookmark24">配置提交节点属性</xref>
+        </cmd>
+      </step>
+      <step>
+        <cmd>
+          <xref href="SAMPLE_绘制审批流程图.dita#A7B38E2D-3D50F25-A712557150B0AD6-3C435B/_bookmark26">配置网关节点属性</xref>
+        </cmd>
+      </step>
+      <step>
+        <cmd>
+          <xref href="#task70/_bookmark28">配置网关分支属性</xref>
+        </cmd>
+      </step>
+      <step>
+        <cmd>
+          <xref href="#task70/_bookmark31">配置审批节点属性</xref>
+        </cmd>
+      </step>
+      <step>
+        <cmd>
+          <xref href="#task70/_bookmark37">配置流程的全局属性</xref>
+        </cmd>
+      </step>
+      <step>
+        <cmd>
+          <xref href="../concepts/SAMPLE_保存流程.dita">保存流程</xref>
+        </cmd>
+      </step>
+    </steps>
+  </taskbody>
+</task>

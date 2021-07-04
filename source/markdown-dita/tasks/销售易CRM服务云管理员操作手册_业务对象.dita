@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?><!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd"[]>
+<task xml:lang="en-us" id="AA374135-94E4F56-F21588521176769-9DA5D0">
+  <title>业务对象</title>
+  <taskbody>
+    <steps>
+      <step>
+        <cmd id="_Toc250389622">客户对象列表（Figure Title 斜体 10pt）</cmd>
+      </step>
+    </steps>
+    <result>
+      <p>
+        <fig>
+          <image href="../graphics/销售易CRM服务云管理员操作手册_topic6_image002.png">
+          </image>
+        </fig>
+      </p>
+    </result>
+  </taskbody>
+</task>

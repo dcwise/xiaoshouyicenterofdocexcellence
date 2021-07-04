@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?><!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd"[]>
+<concept xml:lang="en-us" id="A7B73D18-5E2DD45-3F2217FC25715A2-A471B5">
+  <title>管理流程</title>
+  <shortdesc>流程创建并配置完成后，可以对流程进行以下管理操作：</shortdesc>
+  <conbody>
+    <ul>
+      <li>查看<xref href="SAMPLE_流程列表.dita">流程列表</xref></li>
+      <li>查看<xref href="SAMPLE_流程的状态.dita">流程的状态</xref></li>
+      <li>
+        <xref href="../tasks/SAMPLE_查看流程中执行的操作.dita">查看流程中执行的操作</xref>
+      </li>
+      <li>
+        <xref href="../tasks/SAMPLE_编辑流程.dita">编辑流程</xref>
+      </li>
+      <li>
+        <xref href="../tasks/SAMPLE_编辑流程.dita#A7B7368D-5F021F1-8652A41055233E1-E3A14D/_bookmark71">创建新版本</xref>
+      </li>
+      <li>
+        <xref href="#concept76/_bookmark73">启用流程</xref>
+      </li>
+      <li>
+        <xref href="../tasks/SAMPLE_禁用流程.dita">禁用流程</xref>
+      </li>
+      <li>
+        <xref href="../tasks/SAMPLE_删除流程.dita">删除流程</xref>
+      </li>
+    </ul>
+  </conbody>
+</concept>
